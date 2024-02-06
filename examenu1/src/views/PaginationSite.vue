@@ -6,7 +6,6 @@
   
       <div class="content">
         <h2>Datos Paginados</h2>
-        <!-- Aquí puedes mostrar datos paginados -->
       </div>
   
       <Footer />

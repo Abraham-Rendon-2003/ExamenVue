@@ -60,7 +60,6 @@
     },
     methods: {
       submitForm() {
-        // Aquí puedes agregar la lógica para enviar los datos del formulario
         console.log('Datos del formulario:', {
           marca: this.marca,
           modelo: this.modelo,
@@ -74,7 +73,7 @@
   
   <style scoped>
 .content {
-  margin-left: 220px; /* Ajusta este valor según el ancho del Sidebar */
+  margin-left: 220px; 
   padding: 20px;
 }
 
